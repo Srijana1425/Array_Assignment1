@@ -6,7 +6,7 @@ You can return the answer in any order.<br>
 Input: nums = [2,7,11,15], target = 9<br>
 Output0 [0,1]<br>
 **Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1]<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans1.js)
 ********************************************************************************************************************************************
 
@@ -18,7 +18,7 @@ Consider the number of elements in nums which are not equal to val be k, to get 
 Input: nums = [3,2,2,3], val = 3<br>
 Output: 2, nums = [2,2,_*,_*]<br>
 **Explanation:** Your function should return k = 2, with the first two elements of nums being 2. It does not matter what you leave beyond the returned k (hence they are underscores)<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans2.js)
 ********************************************************************************************************************************************
 
@@ -27,7 +27,7 @@ You must write an algorithm with O(log n) runtime complexity.<br>
 **Example 1:**
 Input: nums = [1,3,5,6], target = 5<br>
 Output: 2<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans3.js)
 ********************************************************************************************************************************************
 
@@ -39,7 +39,7 @@ Output: [1,2,4]<br>
 **Explanation:** The array represents the integer 123.<br>
 Incrementing by one gives 123 + 1 = 124.<br>
 Thus, the result should be [1,2,4].<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans4.js)
 ********************************************************************************************************************************************
 
@@ -51,7 +51,7 @@ Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3<br>
 Output: [1,2,2,3,5,6]<br>
 **Explanation:** The arrays we are merging are [1,2,3] and [2,5,6].
 The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1.<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans5.js)
 ********************************************************************************************************************************************
 
@@ -59,7 +59,7 @@ The result of the merge is [1,2,2,3,5,6] with the underlined elements coming fro
 **Example 1:**<br>
 Input: nums = [1,2,3,1]<br>
 Output: true<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans6.js)
 ********************************************************************************************************************************************
 
@@ -68,7 +68,7 @@ Note that you must do this in-place without making a copy of the array.<br>
 **Example 1:**<br>
 Input: nums = [0,1,0,3,12]<br>
 Output: [1,3,12,0,0]<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans7.js)
 ********************************************************************************************************************************************
 
@@ -78,5 +78,5 @@ Find the number that occurs twice and the number that is missing and return them
 **Example 1:**<br>
 Input: nums = [1,2,2,4]<br>
 Output: [2,3]<br><br>
-*Answer <br>
+*Answer* <br>
 **Code** [link](https://github.com/Srijana1425/Array_Assignment1/blob/main/ans8.js)
